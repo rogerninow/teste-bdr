@@ -20,6 +20,12 @@ e edição dos cadastros já inseridos.
 
 ## Instalação / Configuração
 
+Projeto:
+
+```sh
+composer install
+```
+
 Banco de dados:
 
 Configure o arquivo .env com as credenciais do banco de dados, após execute o comando abaixo:
