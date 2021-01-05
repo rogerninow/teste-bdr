@@ -19,7 +19,7 @@
         "vue-template-compiler": "^2.6.11"
     },
     "dependencies": {
-        "axios": "^0.19.1",
+        "axios": "^0.21.1",
         "font-awesome": "^4.7.0"
     }
 }
